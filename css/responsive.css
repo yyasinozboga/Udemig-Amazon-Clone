@@ -1,0 +1,40 @@
+@media (max-width: 750px) {
+  #res-btn {
+    display: block;
+  }
+
+  #res-menu {
+    display: block;
+  }
+
+  #header {
+    height: 60px;
+  }
+
+  .border {
+    display: none !important;
+  }
+
+  .header-logo {
+    position: absolute;
+    left: 0;
+    width: 100px;
+  }
+
+  .form {
+    width: 300px;
+  }
+
+  .panel {
+    display: none;
+  }
+
+  .container {
+    flex-wrap: wrap;
+  }
+
+  .footer {
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+  }
+}
