@@ -1,4 +1,4 @@
-# Amazon-Clone
+<h1>Amazon Clone Responsive</h1>
 
 <h1>HTML,CSS and JS</h1>
 
